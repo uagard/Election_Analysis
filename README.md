@@ -38,4 +38,4 @@ The results of the election shows that:
 
 ## Election Audit Summary
 
-With additional modifications the Python script could be used for just about any election. It could definitely be utilized at various differnt levels of elections.   If other areas need to be tracked then other variable could be created. In the for loop when each row is read from the reader,additional statements can be added to check for new precincts and counts tracked.  When writing to an output, additional for loop would be required which would include conditional statements to determine the winner. As we go up one level in the election jurisdiction, we can add addtional additional conditional statements and for loops to expand it.
+With additional modifications the Python script could be used for just about any election. It could definitely be utilized at various differnt levels of elections.   If other areas need to be tracked then other variable could be created. More statements could be added in order to located new voter's precincts. 
